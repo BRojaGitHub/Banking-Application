@@ -1,4 +1,4 @@
-# Dev-Challenge
+# Banking-Application
 Simple Spring boot application which provide REST service for money transfer using Gradle.
 
 Implemented a simple REST service with some very basic functionality - to add and read an account.
